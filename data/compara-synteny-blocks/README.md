@@ -4,6 +4,7 @@
 
 Produces:
 
+<pre>
  ************ Record 1 ************
  species1: sorghum_bicolor
      chr1: 3
@@ -15,3 +16,4 @@ Produces:
    start2: 14742684
     stop2: 14828267
   strand2: 1
+</pre>
